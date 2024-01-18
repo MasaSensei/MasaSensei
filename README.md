@@ -11,11 +11,11 @@
 
 ###
 
-<img align="left" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/05/anime-gif-8.gif" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/05/anime-gif-8.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="27" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="27" alt="typescript logo"  />
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.instagram.com/darktoyami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -62,8 +62,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MasaSensei/MasaSensei/output/snake.svg" alt="Snake animation" />
 
