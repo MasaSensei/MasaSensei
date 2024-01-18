@@ -11,7 +11,7 @@
 
 ###
 
-<img align="left" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/05/anime-gif-8.gif"  />
+<img align="left" height="160" src="https://www.gifcen.com/wp-content/uploads/2022/05/anime-gif-8.gif" style="margin-right: 40px;" />
 
 ###
 
